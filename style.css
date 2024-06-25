@@ -1,4 +1,4 @@
-o/* body {
+body {
   font-family: Arial, sans-serif;
   line-height: 1.6;
   margin: 0;
@@ -32,14 +32,13 @@ button {
   color: white;
   border: none;
   cursor: pointer;
-} */
+}
 
 ul {
   list-style-type: none;
   padding: 0;
 }
-
-/* li {
+li {
   background-color: #f4f4f4;
   margin-bottom: 10px;
   padding: 10px;
@@ -56,15 +55,15 @@ ul {
 .todo-text {
   margin-left: 10px;
   flex-grow: 1;
-} */
+}
 
 .completed .todo-text {
   text-decoration: line-through;
   color: #888;
 }
 
-/* .edit-input {
+.edit-input {
   flex-grow: 1;
   margin-right: 10px;
   padding: 5px;
-} */
+}
