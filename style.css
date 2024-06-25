@@ -1,4 +1,4 @@
-body {
+obody {
   font-family: Arial, sans-serif;
   line-height: 1.6;
   margin: 0;
@@ -33,11 +33,11 @@ button {
   border: none;
   cursor: pointer;
 }
-
-ul {
+*/ ul {
   list-style-type: none;
   padding: 0;
 }
+
 li {
   background-color: #f4f4f4;
   margin-bottom: 10px;
