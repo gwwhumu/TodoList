@@ -1,1 +1,1 @@
-https://todo-list.humu.world/
+https://todo-list.humu.life/
